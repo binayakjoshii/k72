@@ -1,4 +1,5 @@
-# React + Vite
+THIS IS A ANIMATED WEBSITE MADE THROUGH GSAP + REACT 
+I WAS INSPIRED FROM A FRENCH WEBSITE
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
